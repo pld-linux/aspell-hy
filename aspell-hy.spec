@@ -1,5 +1,5 @@
 Summary:	Armenian dictionary for aspell
-Summary(pl):	S≥ownik armeÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik arme≈Ñski dla aspella
 Name:		aspell-hy
 Version:	0.0.3
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Armenian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik armeÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik arme≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-hy-%{version}-%{subv}
