@@ -1,5 +1,5 @@
 Summary:	Armenian dictionary for aspell
-Summary(pl.UTF-8):   Słownik armeński dla aspella
+Summary(pl.UTF-8):	Słownik armeński dla aspella
 Name:		aspell-hy
 Version:	0.0.3
 %define	subv	0
