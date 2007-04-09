@@ -1,15 +1,15 @@
 Summary:	Armenian dictionary for aspell
 Summary(pl.UTF-8):	Słownik armeński dla aspella
 Name:		aspell-hy
-Version:	0.0.3
+Version:	0.10.0
 %define	subv	0
 Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/hy/aspell6-hy-%{version}-%{subv}.tar.bz2
-# Source0-md5:	05fa8d83c081e262e648764659703587
-URL:		http://aspell.sourceforge.net/
+# Source0-md5:	41af00aed5078bb4755728c7dec834a2
+URL:		http://aspell.net/
 BuildRequires:	aspell >= 3:0.60
 Requires:	aspell >= 3:0.60
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
