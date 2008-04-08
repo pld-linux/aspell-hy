@@ -7,7 +7,7 @@ Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/hy/aspell6-hy-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/hy/aspell6-hy-%{version}-%{subv}.tar.bz2
 # Source0-md5:	41af00aed5078bb4755728c7dec834a2
 URL:		http://aspell.net/
 BuildRequires:	aspell >= 3:0.60
